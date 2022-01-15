@@ -1,0 +1,10 @@
+
+
+:root {
+    --global-font-falimy: 'Montserrat', sans-serif;
+    --global-font-size : 20px;
+    --body-bg-color: #fefefe;
+    --body-font-color: #333333;
+}
+
+@import './bootstrap/_bootstrap-loader';
